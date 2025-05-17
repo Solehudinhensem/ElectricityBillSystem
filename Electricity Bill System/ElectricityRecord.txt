@@ -1,0 +1,24 @@
+
+
+--------------------------------------
+ELECTRICITY BILL INFORMATION:
+
+Customer name            :Ucop
+Customer Bill number     :12345
+Customer category        :a
+Previous meter reading   :120kWh
+Current meter reading    :300kWh
+Consumed units           :180
+Total bill amount        :RM 440
+
+--------------------------------------
+ELECTRICITY BILL INFORMATION:
+
+Customer name            :Paan
+Customer Bill number     :2345678
+Customer category        :c
+Previous meter reading   :210kWh
+Current meter reading    :500kWh
+Consumed units           :290
+Total bill amount        :RM 671
+
